@@ -107,7 +107,4 @@ I'm open to software engineering opportunities — feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-mohamed-8034032a3)
 [![Email](https://img.shields.io/badge/-omarmohamed67371@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omarmohamed67371@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Omar-Mohamed24&color=2F81F7&style=flat-square&label=Profile+Views" />
-
 </div>
