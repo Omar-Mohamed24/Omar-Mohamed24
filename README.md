@@ -90,11 +90,11 @@ Type a sentence, get a **playable Godot 4 HTML5 game**.
 
 ## 📊 GitHub Stats
 
-<div align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Mohamed24&theme=tokyonight" width="100%" /> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Mohamed24&theme=tokyonight" width="49%" /> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Omar-Mohamed24&theme=tokyonight" width="49%" /> 
-  <img src="https://streak-stats.demolab.com?user=Omar-Mohamed24&theme=tokyonight&hide_border=true" width="100%" /> 
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Omar-Mohamed24&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
