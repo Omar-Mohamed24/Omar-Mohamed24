@@ -92,9 +92,6 @@ Type a sentence, get a **playable Godot 4 HTML5 game**.
 
 <div align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Omar-Mohamed24&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
