@@ -78,6 +78,27 @@ Type a sentence, get a **playable Godot 4 HTML5 game**.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
+### 🕹️ [PixelPocket](https://github.com/Project-Graphite/pixelpocket) — Play Game Boy Games in Your Browser
+*Live at [pixelpocket.project-graphite.com](https://pixelpocket.project-graphite.com) · Part of [Project Graphite](https://github.com/Project-Graphite)*
+
+Pick a game, press Start, and **play it right on the page** — no install.
+
+- 🎮 **Game Boy emulator written from scratch in C++20** — CPU, graphics, sound, timers and MBC1/MBC3/MBC5 cartridges; passes all 11 of Blargg's `cpu_instrs` tests and renders `dmg-acid2` correctly
+- ⚡ **Compiled to WebAssembly** with Emscripten and run inside a React app with Web Audio sound and keyboard, gamepad and touch input
+- 💾 **Cloud saves** that follow players to any device, a shared game library, and private uploads
+- 🔐 **Express API** on MongoDB and MinIO with JWT auth, rate limiting, and content-based ROM and cover validation
+- 🐳 Containerized with **Docker Compose** and shipped through a **GitHub Actions** CI/CD pipeline
+
+![C++](https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 ---
 
 ## 💼 Experience
