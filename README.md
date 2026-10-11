@@ -112,7 +112,7 @@ Pick a game, press Start, and **play it right on the page** — no install.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <img src="./profile-summary-card-output/algolia/0-profile-details.svg" width="100%" />
 </div>
 
 ---
